@@ -1,0 +1,4 @@
+//Gradle é feito em cima de uma linguagem de programação chamada Groovy
+
+println "Hello World usando sintaxe de Groovy!"
+System.out.println("Hello World usando sintaxe de Java!");
