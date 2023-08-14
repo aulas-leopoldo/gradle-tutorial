@@ -7,7 +7,7 @@
 #include "app.h"
 
 std::string tutorialcpp::Greeter::greeting() {
-    return std::string("Hello, World!");
+    return std::string("Olá Mundo!");
 }
 
 int main () {
